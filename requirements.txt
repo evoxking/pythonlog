@@ -1,0 +1,6 @@
+psutil            # Sistem süreçleri, CPU, bellek ve disk kullanımı gibi sistem bilgilerini izlemek için kullanılır.
+pyshark           # Ağ trafiğini izlemek için kullanılan bir Python kütüphanesi.
+watchdog          # Dosya sistemi olaylarını izlemek için kullanılan bir kütüphane.
+tkinter           # Python'un standart GUI kütüphanesi, kullanıcı arayüzü oluşturmak için kullanılır. (Bu kütüphane Python ile birlikte gelir, ayrıca yüklenmesi gerekmez.)
+matplotlib        # Grafiksel gösterimler (CPU ve bellek kullanım grafikleri gibi) oluşturmak için kullanılan bir kütüphane.
+pynput            # Klavye ve fare olaylarını izlemek için kullanılan bir kütüphane.
